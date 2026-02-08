@@ -64,13 +64,7 @@
 
 **GitHub**: https://github.com/phong6677/Phong
 
-*(以下はWebサイトのスクリーンショットです)*
 
-![ホームページ](assets/sweet-dream-home.png)  
-![商品セクション](assets/sweet-dream-products.png)  
-![メニューとアニメーション](assets/sweet-dream-menu.png)
-
-*(スクリーンショットを追加するには、リポジトリに画像をアップロードしてください。例: assetsフォルダにpngファイルを入れて、リンクを修正)*
 ---
 
 ## 🎓 学歴 (Education)
